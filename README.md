@@ -1,5 +1,4 @@
-Computer Science student passionate about creating products that change the way people live.
-
+Some assignments I have done during university.
 
 
 
