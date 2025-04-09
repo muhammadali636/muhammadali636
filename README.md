@@ -4,13 +4,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I+am+Muhammad+Ali!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">Third year Computer Science student at the University of Guelph 💻🌱</h3>
+<h3 align="left">Senior Computer Science student at the University of Guelph 💻🌱</h3>
 
 <br/>
 
 <div align="left">
  
-I am a 3rd-year Computer Science student at the University of Guelph with a passion for solving real-world problems using technology. I enjoy projects that help me build skills in full-stack development, data, ML, and AI. Known for being dependable, hardworking, and a quick learner, I excel at transferring theoretical knowledge into practical software that makes a real impact. With strong teamwork, communication, and leadership skills, I'm motivated to create practical software for real-world needs that helps people and drives innovation. 
+I'm a senior Computer Science student at the University of Guelph with a passion for applying technology to solve real-world problems. From full-stack development to robotics and AI, I love building projects that make a tangible impact. I'm known for being dependable, hardworking, and a fast learner—able to turn classroom theory into practical solutions that help people and spark innovation. With strong teamwork, communication, and leadership skills, I'm motivated to develop meaningful software that meets real-world needs.
 
 I'm actively seeking internships and collaborative projects to further develop my skills.
  
